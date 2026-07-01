@@ -22,3 +22,5 @@ Before this, networking felt confusing. Now I can:
 ## Next Step
 
 Moving to Linux to understand how systems actually run in real environments.
+
+starting soon.
